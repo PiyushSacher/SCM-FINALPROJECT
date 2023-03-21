@@ -24,5 +24,11 @@ check_guess(guess1, "Sachin Tendulkar")
 guess2 = input("Who is known as Mr. 360?")
 check_guess(guess2, "AB De Villiers")
 print("Your Score is "+ str(score))
+
 guess4 = input("Who is the fastest man on planet?")
 check_guess(guess4, "Usain Bolt")
+
+guess3 = input("Who won the 2023 FIFA world cup?")
+check_guess(guess3, "Argentina")
+
+

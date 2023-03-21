@@ -21,10 +21,14 @@ print("Your Score is "+ str(score))
 print("Guess the correct answer!")
 guess1 = input("Who is known as the God of cricket?")
 check_guess(guess1, "Sachin Tendulkar")
-<<<<<<< HEAD
 guess2 = input("Who is known as Mr. 360?")
 check_guess(guess2, "AB De Villiers")
 print("Your Score is "+ str(score))
+<<<<<<< HEAD
+guess4 = input("Who is the fastest man on planet?")
+check_guess(guess4, "Usain Bolt")
 =======
-print("Your Score is "+ str(score))
->>>>>>> bcef5517fec7fe85b5b32cb3b41a20970519ac90
+guess3 = input("Who won the 2023 FIFA world cup?")
+check_guess(guess3, "Argentina")
+
+>>>>>>> c402acdc114de9bc14e353cda4889a672b58c9b9
