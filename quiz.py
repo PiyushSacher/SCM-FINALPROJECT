@@ -13,3 +13,9 @@ def check_guess(guess, answer):
             attempt = attempt + 1
     if attempt == 2:
         print("The Correct answer is ",answer )
+
+score = 0
+print("Guess the correct answer!")
+guess1 = input("Who is known as the God of cricket?")
+check_guess(guess1, "Sachin Tendulkar")
+print("Your Score is "+ str(score))
