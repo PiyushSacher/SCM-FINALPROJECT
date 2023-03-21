@@ -13,3 +13,9 @@ def check_guess(guess, answer):
             attempt = attempt + 1
     if attempt == 2:
         print("The Correct answer is ",answer )
+
+score = 0
+guess2 =input("Who is known as father of our nation?")
+check_guess(guess2, "Mahatma Gandhi")
+print("Your Score is "+ str(score))
+
