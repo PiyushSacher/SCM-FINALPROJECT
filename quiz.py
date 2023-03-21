@@ -31,7 +31,10 @@ check_guess(guess4, "Usain Bolt")
 guess3 = input("Who won the 2023 FIFA world cup?")
 check_guess(guess3, "Argentina")
 guess4 = input("Who is the current prime minister of India?")
-check_guess(guess4,"Shri Narendra Modi")
+check_guess(guess4,"Narendra Modi")
+guess5 = input("Who is the current president of USA?")
+check_guess(guess5, "Joe Biden")
+
 
 
 
