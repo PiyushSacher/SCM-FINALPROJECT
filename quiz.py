@@ -18,4 +18,6 @@ score = 0
 print("Guess the correct answer!")
 guess1 = input("Who is known as the God of cricket?")
 check_guess(guess1, "Sachin Tendulkar")
+guess2 = input("Who is known as Mr. 360?")
+check_guess(guess2, "AB De Villiers")
 print("Your Score is "+ str(score))
