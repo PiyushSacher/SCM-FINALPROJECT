@@ -36,5 +36,10 @@ guess5 = input("Who is the current president of USA?")
 check_guess(guess5, "Joe Biden")
 
 
-
+guess6 = input("Who won the 2018 FIFA world cup?")
+check_guess(guess6, "France")
+guess7 = input("Who won the 2011 cricket world cup?")
+check_guess(guess7,"India")
+guess8 = input("Who is the president of india?")
+check_guess(guess8, "Droupadi Murmu")
 
